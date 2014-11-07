@@ -12,7 +12,7 @@ For more information please visit the website at [http://startbootstrap.com](htt
 
 There are currently 34 themes and templates available on Start Bootstrap:
 
-- **Scrolling Nav** : [demo](http://demo.kimsq.com/rb2/scrolling-nav/),[docs](http://docs.kimsq.com/rb2/docs/c/examples/StartBootstrap/scrolling-nav/) , [orginal template](http://startbootstrap.com/template-overviews/scrolling-nav/) , - A scrolling navigation template.
+- **Scrolling Nav** : [demo](http://demo.kimsq.com/rb2/scrolling-nav),[docs](http://docs.kimsq.com/rb2/docs/c/examples/StartBootstrap/scrolling-nav) , [orginal template](http://startbootstrap.com/template-overviews/scrolling-nav/) , - A scrolling navigation template.
 
 
 ## Copyright and License
