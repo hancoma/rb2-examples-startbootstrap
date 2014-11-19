@@ -1,25 +1,31 @@
-# [Bootstrap cover template for kimsQ Rb2](http://kimsq.github.io/rb2-examples-bootstrap)
-Build around the jumbotron with a navbar and some basic grid columns.
+# [Start Bootstrap Agency for kimsQ Rb2](http://kimsq.github.io/rb2-examples-startbootstrap/)
+A clean, stylish, one page Bootstrap portfolio theme perfect for your agency or small business.
 
-- Rb2 데모 <http://demo.kimsq.com/rb2/cover>
-- 템플릿 원본 <http://getbootstrap.com/examples/cover/>
+- Rb2 데모 <http://demo.kimsq.com/rb2/agency>
+- 템플릿 원본 <http://ironsummitmedia.github.io/startbootstrap-agency/>
 
 
+# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
-## Creators
+[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-**Mark Otto**
-
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
+## Getting Started
 
 
 
-## Copyright and license
+## Bugs and Issues
 
-Code and documentation copyright 2011-2014 Twitter, Inc. Code released under [the MIT license](LICENSE). Docs released under [Creative Commons](docs/LICENSE).
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.

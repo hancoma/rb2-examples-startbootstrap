@@ -47,13 +47,6 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
-    <style>
-        header {
-            background-image: url(<?php echo $g['img_layout']?>/header-bg.jpg) !important;
-        }
-    </style>
-
     <header>
         <div class="container">
             <div class="intro-text">
