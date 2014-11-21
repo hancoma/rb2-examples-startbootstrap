@@ -3,7 +3,7 @@
 <head>
 <?php include $g['dir_layout'].'/_includes/_import.head.php' ?>
 </head>
-<body id="rb-body">
+<body>
 
 	<?php include $g['dir_layout'].'/_includes/header.php' ?>
 
